@@ -1,0 +1,13 @@
+{
+    "version"    : "0.1",
+    "name"       : "tel.min",
+    "description": "tel.min",
+    "launch_path": "/index.html",
+    "developer"  : {
+        "name" : "CHUO-U-OpenProject",
+        "url"  : ""
+    },
+    "installs_allowed_from": ["*"],
+    "permissions": {
+    }
+}
