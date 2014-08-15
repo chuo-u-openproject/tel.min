@@ -5,7 +5,7 @@
     "launch_path": "/index.html",
     "developer"  : {
         "name" : "CHUO-U-OpenProject",
-        "url"  : ""
+        "url"  : "http://v3.gitfab.org/chuo-u-openproject/2f13f749-f2af-42ec-923c-6bb47d75683f"
     },
     "installs_allowed_from": ["*"],
     "permissions": {
